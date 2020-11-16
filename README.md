@@ -5,5 +5,6 @@
 -ViewModel 
 -Room
 -Databinding
+-Navigation Component
 
 # Retrofit & Rxjava & Coroutines & Picasso/Glide
