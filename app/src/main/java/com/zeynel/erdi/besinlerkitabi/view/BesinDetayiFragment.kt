@@ -22,6 +22,7 @@ class BesinDetayiFragment : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        System.out.println("")
 
     }
 
