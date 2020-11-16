@@ -4,4 +4,4 @@
 -Room
 -Databinding
 
-#Retrofit & Rxjava &Coroutines
+# Retrofit & Rxjava & Coroutines & Picasso/Glide
