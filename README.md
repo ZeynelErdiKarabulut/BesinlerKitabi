@@ -1,4 +1,6 @@
 # Android Architecture Components
+
+-MVVM
 -LiveData 
 -ViewModel 
 -Room
